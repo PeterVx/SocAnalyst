@@ -88,7 +88,7 @@ Realizamos un sudo ln -s
 
 Clonamos el repositorio oficial de MISP llamado misp-docker. Para clonar un repositorio en nuestro sistema podemos ejecutar el siguiente comando:
 
-    git clone ://github.com/MISP/misp-docker
+    git clone https://github.com/MISP/misp-docker
 
 ![Mover Misp](./Imagenes/misp11.png)
 
